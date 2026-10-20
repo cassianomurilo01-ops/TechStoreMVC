@@ -95,3 +95,13 @@ C:\Users\61174949805\Desktop\back end\MVC\TechStoreMVC\obj\Debug\net10.0\refint\
 C:\Users\61174949805\Desktop\back end\MVC\TechStoreMVC\obj\Debug\net10.0\TechStoreMVC.pdb
 C:\Users\61174949805\Desktop\back end\MVC\TechStoreMVC\obj\Debug\net10.0\TechStoreMVC.genruntimeconfig.cache
 C:\Users\61174949805\Desktop\back end\MVC\TechStoreMVC\obj\Debug\net10.0\ref\TechStoreMVC.dll
+C:\Users\61174949805\Desktop\back end\MVC\TechStoreMVC\obj\Debug\net10.0\TechStoreMVC.sourcelink.json
+C:\Users\61174949805\Desktop\back end\MVC\TechStoreMVC\obj\validation\appsettings.Development.json
+C:\Users\61174949805\Desktop\back end\MVC\TechStoreMVC\obj\validation\appsettings.json
+C:\Users\61174949805\Desktop\back end\MVC\TechStoreMVC\obj\validation\TechStoreMVC.staticwebassets.runtime.json
+C:\Users\61174949805\Desktop\back end\MVC\TechStoreMVC\obj\validation\TechStoreMVC.staticwebassets.endpoints.json
+C:\Users\61174949805\Desktop\back end\MVC\TechStoreMVC\obj\validation\TechStoreMVC.exe
+C:\Users\61174949805\Desktop\back end\MVC\TechStoreMVC\obj\validation\TechStoreMVC.deps.json
+C:\Users\61174949805\Desktop\back end\MVC\TechStoreMVC\obj\validation\TechStoreMVC.runtimeconfig.json
+C:\Users\61174949805\Desktop\back end\MVC\TechStoreMVC\obj\validation\TechStoreMVC.dll
+C:\Users\61174949805\Desktop\back end\MVC\TechStoreMVC\obj\validation\TechStoreMVC.pdb
