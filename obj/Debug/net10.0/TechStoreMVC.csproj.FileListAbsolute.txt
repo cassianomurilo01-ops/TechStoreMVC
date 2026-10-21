@@ -105,3 +105,11 @@ C:\Users\61174949805\Desktop\back end\MVC\TechStoreMVC\obj\validation\TechStoreM
 C:\Users\61174949805\Desktop\back end\MVC\TechStoreMVC\obj\validation\TechStoreMVC.runtimeconfig.json
 C:\Users\61174949805\Desktop\back end\MVC\TechStoreMVC\obj\validation\TechStoreMVC.dll
 C:\Users\61174949805\Desktop\back end\MVC\TechStoreMVC\obj\validation\TechStoreMVC.pdb
+C:\Users\61174949805\AppData\Local\Temp\TechStoreMVC-build\appsettings.Development.json
+C:\Users\61174949805\AppData\Local\Temp\TechStoreMVC-build\appsettings.json
+C:\Users\61174949805\AppData\Local\Temp\TechStoreMVC-build\TechStoreMVC.staticwebassets.runtime.json
+C:\Users\61174949805\AppData\Local\Temp\TechStoreMVC-build\TechStoreMVC.staticwebassets.endpoints.json
+C:\Users\61174949805\AppData\Local\Temp\TechStoreMVC-build\TechStoreMVC.deps.json
+C:\Users\61174949805\AppData\Local\Temp\TechStoreMVC-build\TechStoreMVC.runtimeconfig.json
+C:\Users\61174949805\AppData\Local\Temp\TechStoreMVC-build\TechStoreMVC.dll
+C:\Users\61174949805\AppData\Local\Temp\TechStoreMVC-build\TechStoreMVC.pdb
